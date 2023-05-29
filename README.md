@@ -15,7 +15,7 @@ nvcc -o program_name program_name.cu
 Execute: ./program_name
 
 ### for Deep Learning
-
+for Lab1 https://github.com/richardwarepam16/BE_DL_Practicals
 download the .ipynb file and load it to jupyterBook
 and for writing the pdf are their
 
