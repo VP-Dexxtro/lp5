@@ -5,7 +5,7 @@ Configuring OpenMP: echo |cpp -fopenmp -dM |grep -i open
 
 sudo apt install libomp-dev 
 
-Compile: gcc -o gfg -fopenmp geeksforgeeks.c
+Compile: g++ -o gfg -fopenmp geeksforgeeks.cpp
 
 Execute: ./gfg
 
